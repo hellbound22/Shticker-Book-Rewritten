@@ -1,8 +1,13 @@
-## Shticker Book Rewritten
+## Shticker Book Rewritten 2nd Edition
 
 Custom launcher for the MMORPG Toontown Rewritten.  Named after the in game shticker book which provides access to various settings and data.  It tries to provide an all in one tool to provide useful tools to make playing easier.
 
 It supports all platforms that Toontown Rewritten does.  MacOS users need to manually allow the app to run by opening the Applications folder in Finder and opening it by pressing the command key while opening the app.  This is because Apple forces apps to be signed but charges for the ability to sign them.
+
+### Goals for the second edition
+- [ ] General updates (tbd)
+- [ ] Get rid of QT in favor of something more friendly (GTK or something else)
+- [ ] Provide a cmd line interface
 
 ### Screenshots
 
